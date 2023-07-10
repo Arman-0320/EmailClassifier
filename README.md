@@ -6,7 +6,7 @@ Classify emails as spam or not-spam on the basis of the message.
 **DATASET:**
 [E-Mail classification NLP](https://www.kaggle.com/datatattle/email-classification-nlp)
 
-**WHAT I HAD DONE:**
+**WHAT I HAVE DONE:**
 
 I have started with simple Exploratory Data Analysis(EDA), looked for some null or duplicate vales. 
 Then splited the training and testing dataset using sklearn. 
